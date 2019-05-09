@@ -8,7 +8,7 @@ public class ChocolateBoiler {
         this.boiled = false;
     }
 
-    public static ChocolateBoiler getInstance(){
+    synchronized public static ChocolateBoiler getInstance(){
         if (singletonInstance == null)
             singletonInstance = new ChocolateBoiler();
 

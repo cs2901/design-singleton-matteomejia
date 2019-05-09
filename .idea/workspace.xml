@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7469bac4-89c1-4c1e-8a5b-c078c6bcea8e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ChocolateBoiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/ChocolateBoiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/ChocolateBoiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/ChocolateBoiler.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/src/ChocolateBoiler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="60">
+              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
               <folding>
                 <element signature="e#870#871#0" expanded="true" />
                 <element signature="e#898#899#0" expanded="true" />
@@ -37,7 +37,7 @@
               <ID>JAVA</ID>
               <OriginalElement>ChocolateBoiler</OriginalElement>
               <nodes>
-                <node x="0.0" y="0.0">ChocolateBoiler</node>
+                <node x="-198.0" y="-24.0">ChocolateBoiler</node>
               </nodes>
               <notes />
               <edges />
@@ -118,6 +118,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -157,12 +158,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557420942111</updated>
       <workItem from="1557420948431" duration="199000" />
-      <workItem from="1557421167799" duration="1210000" />
+      <workItem from="1557421167799" duration="1634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1409000" />
+    <option name="totallyTimeSpent" value="1833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1038" extended-state="6" />
@@ -242,13 +243,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ChocolateBoilerNotSingleton.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChocolateBoiler.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="uml://JAVA/ChocolateBoiler">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
           <OriginalElement>ChocolateBoiler</OriginalElement>
           <nodes>
-            <node x="0.0" y="0.0">ChocolateBoiler</node>
+            <node x="-198.0" y="-24.0">ChocolateBoiler</node>
           </nodes>
           <notes />
           <edges />
@@ -268,8 +275,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/src/ChocolateBoiler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="60">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
           <folding>
             <element signature="e#870#871#0" expanded="true" />
             <element signature="e#898#899#0" expanded="true" />
